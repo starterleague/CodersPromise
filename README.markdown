@@ -1,7 +1,7 @@
 # As a Code Academy student and alum, I promise to...
 
-continue to make memes using Neal's face.
-promote every Code Academy post on Built in Chicago.
+- continue to make memes using Neal's face.
++ promote every Code Academy post on Built in Chicago.
 show up for class on time, every time, but if I'm late, apologize to Jeff.
 say "rake db:migrate" in Jeff's voice whenever possible.
 RSVP to geekfest on gathers.us instead of just show up for lunch.
